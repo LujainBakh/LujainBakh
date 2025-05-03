@@ -15,6 +15,7 @@ I'm a passionate Computer Science senior with a love for crafting intuitive user
 ### 📬 Let’s Connect!
 - 🐦 [@lujainbakh](https://twitter.com/lujainbakh)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lujain-bakhurji)
+- ✉️ [Email](email-to:lujainbakhurji@gmail.com)
 - 📂 [Portfolio (Coming Soon)]()
 
 ---
