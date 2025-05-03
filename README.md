@@ -1,4 +1,4 @@
-## Hi there, I'm Lujain! ✦ 
+## Hi there, I'm Lujain ✦ 
 
 I'm a passionate Computer Science senior with a love for crafting intuitive user experiences, building AI-powered tools, and solving real-world problems through code.  
 
