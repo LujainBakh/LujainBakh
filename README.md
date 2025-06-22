@@ -16,6 +16,7 @@ I'm a passionate Computer Science senior with a love for crafting intuitive user
 - 🐦 [@lujainbakh](https://twitter.com/lujainbakh)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lujain-bakhurji)
 - ✉️ [Email](mailto:lujainbakhurji@gmail.com)
+- 💻 [Behance](https://www.behance.net/gallery/220850331/Ninja-Application-Case-Study-Lujain-Bakhurji)
 - 📂 [Portfolio (Coming Soon)]()
 
 ---
